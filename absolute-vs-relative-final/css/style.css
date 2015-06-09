@@ -1,0 +1,13 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @GA in NYC
+*/
+@import url('reset.css');
+@import url('base.css');
+@import url('layout.css');
+@import url('components/header.css');
+@import url('components/section.css');
+@import url('components/aside.css');
+@import url('components/footer.css');

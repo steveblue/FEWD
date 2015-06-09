@@ -1,0 +1,22 @@
+header {
+  position: relative;
+}
+
+section {
+  position: relative;
+  float:right;
+  clear:right;
+  width: 80%;
+}
+
+aside {
+  position: relative;
+  float:left;
+  width: 20%;
+  height:460px;
+}
+
+footer {
+  position: relative;
+  clear:both;
+}
